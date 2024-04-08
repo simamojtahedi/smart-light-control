@@ -1,4 +1,4 @@
-# Hotel Project
+# Smart Light Control
 
 This is a smart light control app created with **React.js**, **Three.js**, **Framer motion**, **Typescript**, and **SASS**.
 
